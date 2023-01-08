@@ -7,6 +7,7 @@
     --botao-azul-efeito: #3c92fa;
 }
 
+
 body {
     background-color: var(--cor-de-fundo);
     color: var(--branco-principal);
