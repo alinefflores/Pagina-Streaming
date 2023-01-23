@@ -2,7 +2,7 @@
 <p>Projeto plataforma de streaming da Alura</p>
 <p>Com HTML e CSS</p>
 
-image.png
+![image](https://user-images.githubusercontent.com/115930506/214025603-1344a312-e2d3-4508-a21c-554328e56f47.png)
 
 <h2>Técnicas e Tecnologias</h2>
 <ul>
