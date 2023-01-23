@@ -6,7 +6,7 @@
 
 <h2>Técnicas e Tecnologias</h2>
 <ul>
-  <li>Imagens e dados pelo Figma</li>
+  <li>Imagens e dados pelo Figma, curso Alura</li>
   <li>Elementos HTML: âncoras, botões, imagens... </li>
   <li>Propriedades CSS: espaçamento, grid, flexbox...</li>
   <li>Layout Responsivo</li>
